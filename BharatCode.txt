@@ -1,0 +1,6 @@
+BharatCode Build League entry
+Project: errdoc
+Entrant: Sahil Singh Kushwah
+Direction: Coding & developer tools
+Repository: https://github.com/WhitefistEmperor/errdoc
+Built on the BharatCode model API (qwen-3.8-27b, chat completions endpoint).
